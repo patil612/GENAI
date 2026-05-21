@@ -1,0 +1,38 @@
+[
+  {
+    "clause": "The Receiving Party agrees to hold in confidence and not disclose the Confidential Information to any third party for a period of ten (10) years from the date of disclosure.",
+    "policy": "Confidentiality obligations must survive for a maximum period of three (3) years from the date of disclosure.",
+    "rewritten_clause": "The Receiving Party agrees to hold in confidence and not disclose the Confidential Information to any third party for a period of three (3) years from the date of disclosure.",
+    "explanation": "The original clause specified a 10-year term for confidentiality, which violates the company policy restricting confidentiality terms to a maximum of 3 years. The term was modified to align with the policy."
+  },
+  {
+    "clause": "Payment for all invoices shall be made within 90 days of receipt.",
+    "policy": "Standard payment terms are Net 30 days from the date of invoice receipt.",
+    "rewritten_clause": "Payment for all invoices shall be made within 30 days of receipt.",
+    "explanation": "The payment term of 90 days was reduced to 30 days to comply with the standard Net 30 payment policy."
+  },
+  {
+    "clause": "Under no circumstances shall the Service Provider's total liability exceed the total amount paid under this Agreement in the six months preceding the event giving rise to the claim.",
+    "policy": "Liability caps must be set to no less than the total amount paid under the Agreement over the preceding twelve (12) months.",
+    "rewritten_clause": "Under no circumstances shall the Service Provider's total liability exceed the total amount paid under this Agreement in the twelve (12) months preceding the event giving rise to the claim.",
+    "explanation": "The liability cap was increased from a six-month trailing revenue to a twelve-month trailing revenue to meet the minimum liability cap policy."
+  },
+  {
+    "clause": "Either party may terminate this Agreement at any time without cause upon written notice.",
+    "policy": "Termination for convenience requires at least thirty (30) days prior written notice.",
+    "rewritten_clause": "Either party may terminate this Agreement at any time without cause upon thirty (30) days prior written notice.",
+    "explanation": "The termination clause lacked a notice period. Added a 30-day prior written notice requirement for convenience termination in accordance with company policy."
+  },
+  {
+    "clause": "The Customer shall indemnify and hold harmless the Vendor from any and all claims, including those arising from the Vendor's own negligence.",
+    "policy": "The company shall not indemnify the vendor for claims arising from the vendor's own negligence or willful misconduct.",
+    "rewritten_clause": "The Customer shall indemnify and hold harmless the Vendor from any and all claims, excluding those arising from the Vendor's own negligence or willful misconduct.",
+    "explanation": "The indemnification clause improperly included indemnification for the vendor's own negligence. Added an exclusion for the vendor's negligence and willful misconduct to comply with risk management policies."
+  },
+  {
+    "clause": "This Agreement shall automatically renew for successive one-year periods unless written notice of non-renewal is provided at least 5 days prior to the expiration date.",
+    "policy": "Auto-renewal clauses must require at least 60 days advance notice to opt out.",
+    "rewritten_clause": "This Agreement shall automatically renew for successive one-year periods unless written notice of non-renewal is provided at least sixty (60) days prior to the expiration date.",
+    "explanation": "The opt-out notice period for auto-renewal was increased from 5 days to 60 days as per the auto-renewal policy."
+  }
+]

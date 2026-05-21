@@ -1,0 +1,28 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+motor
+pymongo
+transformers
+peft
+torch
+accelerate
+bitsandbytes
+python-dotenv
+pandas
+scikit-learn
+nltk
+
+# ─── Document Parsing ────────────────────────────────────────────────────────
+PyPDF2               # PDF text extraction
+python-docx          # DOCX / Word files
+mammoth              # Legacy .DOC files (Word 97-2003)
+openpyxl             # XLSX spreadsheets
+xlrd                 # Legacy .XLS spreadsheets (Excel 97-2003)
+python-pptx          # PPTX presentations
+odfpy                # ODT / OpenDocument files
+striprtf             # RTF files
+pdfplumber           # Fallback PDF extraction (complex/scanned PDFs)
+Pillow               # Image handling for OCR
+pytesseract          # OCR for images (also needs Tesseract binary installed)

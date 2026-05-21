@@ -1,0 +1,34 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Node / JS
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Large datasets & models
+datasets/*.csv
+models/auto-redline-llama3-lora/
+models/checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploads directory contents (but keep the folder)
+backend/uploads/*
+!backend/uploads/.gitkeep
